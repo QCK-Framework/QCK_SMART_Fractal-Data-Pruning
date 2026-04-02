@@ -1,10 +1,10 @@
-# QCK: Smart Fractal Data Pruning (v001)
+# QCK: Smart Data Pruning (v001)
 
 **A Manifest for Smart Data and Green AI: From Brute-Force Ray Tracing to Preventive Geometric Selection.**
 
 As the internet floods with synthetic text, training future foundational models on AI-generated "slop" leads to irreversible Model Collapse. The current paradigm ("Scale is all you need") hits physical limits when algorithms attempt to diagnose hallucination *after* training using extreme compute power.
 
-The **Fractal Data Pruning** pipeline offers a fundamental paradigm shift: **Prevention instead of Diagnosis.** Based on the QCK framework, this tool postulates that high-quality, organic information inherently possesses a stable geometric signature—a clear attractor. Instead of training on petabytes of high-dimensional fractal noise, this script prunes the data geometrically *before* it enters the training pipeline.
+The **QCK SMART Data Pruning** pipeline offers a fundamental paradigm shift: **Prevention instead of Diagnosis.** Based on the QCK framework, this tool postulates that high-quality, organic information inherently possesses a stable geometric signature—a clear attractor. Instead of training on petabytes of high-dimensional fractal noise, this script prunes the data geometrically *before* it enters the training pipeline.
 
 ## 🚀 The Mathematical Advantage
 Instead of using complex Transformer loops, the QCK Pruner mathematically measures the dimensional roughness (D2) and semantic drift of the text topology in a 768-dimensional space (`mpnet-base-v2`). 
