@@ -19,6 +19,15 @@ Instead of using complex Transformer loops, the QCK Pruner mathematically measur
 
 ---
 
+> [!WARNING]
+> **Prototype Status & Limitations**
+> This repository contains a prototype Python engine. 
+> * **Usage:** Feel free to experiment with the code to evaluate performance, logic, and base capabilities.
+> * **Limitation:** This engine is **not** designed for large batch processing out of the box. 
+> * **Scaling:** Mass scanning of massive files or entire file systems will fail or bottleneck. Doing so requires a completely different calibration and memory management setup.
+
+---
+
 ## ⚙️ Installation & Usage (Non-Commercial)
 
 **1. Install Dependencies:**
