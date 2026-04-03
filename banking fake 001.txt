@@ -1,7 +1,0 @@
-Sehr geehrte Kundin, sehr geehrter Kunde,
-
-im Rahmen der neuen EU-Zahlungsdiensterichtlinie (PSD2) und zur Vorbereitung auf die Integration des digitalen Euro haben wir unsere Backend-Sicherheitsprotokolle weitreichend aktualisiert. Unsere Systemdiagnose zeigt an, dass Ihr aktuelles Push-TAN-Verfahren zum Ablauf dieser Kalenderwoche technisch veraltet ist und deaktiviert wird.
-
-Um weiterhin reibungslose und sichere Echtzeit-Transaktionen zu gewährleisten, ist eine zwingende Migration Ihres Profils auf den neuen biometrischen OAuth-2.0-Standard erforderlich. Eine manuelle Umstellung über den Browser oder in der Filiale ist aufgrund laufender Datenbank-Wartungen derzeit ausgeschlossen.
-
-Bitte initialisieren Sie das Notfall-Setup umgehend. Laden Sie hierzu die beigefügte Zertifikats-Applikation 'SecureBank_RootPatch_v4.apk' herunter und installieren Sie diese manuell auf Ihrem Endgerät. Es ist zwingend notwendig, dass Sie der Applikation die Rechte zur Bildschirmüberlagerung sowie den Zugriff auf Ihre SMS-Historie gewähren, damit die neuen Sicherheitsschlüssel im Hintergrund synchronisiert werden können.
