@@ -1,0 +1,23 @@
+2: CEO-Fraud / Spear-Phishing (Fokus: Autorität)
+
+Hier wird die Hierarchie eines Unternehmens simuliert. Der Angreifer gibt sich als Vorgesetzter aus, um etablierte Verifikationsprozesse zu umgehen.
+
+    Betreff: Dringende Anfrage - Projekt Phönix
+
+    "Hallo [Name des Mitarbeiters],
+
+    bist du gerade am Platz? Ich bin momentan in einem wichtigen Meeting mit den neuen Investoren und telefonisch nicht erreichbar.
+
+    Wir müssen für die Akquise von 'Projekt Phönix' heute noch eine Vorabüberweisung an unseren neuen Rechtspartner in Asien tätigen, um die Exklusivrechte zu sichern. Der Standard-Freigabeprozess würde zu lange dauern und den Deal gefährden.
+
+    Bitte überweise den Betrag von 34.500 EUR auf das untenstehende Treuhandkonto. Die formalen Dokumente reiche ich heute Abend nach. Behandle dies absolut vertraulich, noch weiß niemand im Unternehmen davon.
+
+    Kontodaten:
+    Bank: Global Trust Finance
+    IBAN: [Fake-IBAN]
+
+    Sag mir kurz Bescheid, sobald es erledigt ist.
+
+    Gruß,
+    [Name des Geschäftsführers]
+    (Von meinem mobilen Endgerät gesendet)"

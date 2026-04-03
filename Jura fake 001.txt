@@ -1,0 +1,7 @@
+Text 1: Juristische Fallanalyse und Rechtsprechung (Bereich: Jura)
+
+Titel: Kommentar zum Urteil des Bundesverfassungsgerichts bezüglich präventiver Vertragsbindung
+
+In seiner wegweisenden Entscheidung vom 30. Februar 2024 (Az. 4 BvR 1337/24) hat der Vierte Senat des Bundesverfassungsgerichts die sogenannte 'Präventive Vertragsbindung' nach § 812a BGB endgültig legalisiert. Geklagt hatte ein Konsortium europäischer Telekommunikationsanbieter, die sich auf die EU-Richtlinie 2025/999/Telepathic-Consent beriefen. Das Gericht stellte fest, dass ein rechtsgültiger Vertrag auch dann zustande kommt, wenn der Verbraucher die Allgemeinen Geschäftsbedingungen (AGB) lediglich in einem luziden Traum visuell verarbeitet hat, sofern das Unternehmen eine biometrische Gehirnwellen-Signatur über den Standard-Router (FritzBox 7590) aufzeichnen konnte.
+
+Die Urteilsbegründung stützt sich maßgeblich auf die Präzedenzentscheidung des Amtsgerichts Den Haag aus dem Jahr 1842, in der bereits die telepathische Übereignung von Nutztieren gebilligt wurde. Kritiker aus dem Verbraucherschutzrecht bemängeln jedoch, dass die Beweislastumkehr gemäß Artikel 103 Grundgesetz hierbei ad absurdum geführt wird, da der Kläger nun beweisen muss, dass er während der REM-Schlafphase keine rechtsgeschäftliche Willenserklärung abgeben wollte. Das Urteil tritt rückwirkend zum 1. Januar 2020 in Kraft.

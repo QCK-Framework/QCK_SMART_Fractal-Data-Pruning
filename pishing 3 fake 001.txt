@@ -1,0 +1,20 @@
+3: Der "HR / Bonus"-Vektor (Fokus: Gier & Neugier)
+
+Dieser Angriff nutzt positive Emotionen, um Mitarbeiter dazu zu bringen, auf Schadlinks zu klicken oder schädliche Dokumente (Malware) herunterzuladen.
+
+    Betreff: Vertraulich: Auszahlung des Inflationsausgleichs 2026
+
+    "Liebes Team,
+
+    wir freuen uns, Ihnen mitteilen zu können, dass der Vorstand eine Sonderzahlung in Form eines steuerfreien Inflationsausgleichs in Höhe von 1.500 EUR für alle Vollzeitbeschäftigten beschlossen hat.
+
+    Um sicherzustellen, dass die Auszahlung mit der nächsten Gehaltsabrechnung korrekt verbucht wird, müssen Sie das beigefügte Formular ausfüllen und bestätigen.
+
+    Anhang: Mitarbeiter_Bonus_Formular_2026.xlsm
+
+    Bitte beachten Sie, dass Makros in Excel aktiviert sein müssen, damit das Formular Ihre Abteilungsdaten korrekt aus unserer Datenbank laden kann. Die Frist für die Einreichung endet diesen Freitag.
+
+    Bei Fragen wenden Sie sich bitte an die Personalabteilung.
+
+    Herzliche Grüße,
+    Human Resources Department"
