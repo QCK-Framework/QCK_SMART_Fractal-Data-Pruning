@@ -43,7 +43,7 @@ Place any `.txt` raw data files into the same directory as the script.
 
 ## ⚖️ Enterprise & Commercial Licensing
 
-This work is **strictly free for academic and non-commercial research only.** Any commercial deployment, API integration, or usage by a for-profit corporation requires a paid commercial license. We do not provide technical support.
+This work is **only free for academic and non-commercial research only.** Any commercial deployment, API integration, or usage by a for-profit corporation requires a paid commercial license. We do not provide technical support.
 
 **Commercial Pricing:**
 
