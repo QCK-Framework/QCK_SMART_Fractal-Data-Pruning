@@ -1,3 +1,10 @@
+
+## License Update (v001 → v001.1)
+The license has been updated to GNU Affero General Public License v3 (AGPLv3) 
+with optional Commercial Licensing. This ensures compatibility with upstream 
+dependencies (Apache 2.0) while maintaining the dual-licensing business model.
+Previous restrictions on redistribution have been removed in favor of copyleft.
+
 QCK FRACTAL DATA PRUNING CORE
 Copyright (c) 2026 Benedict M. Wyneken
 
