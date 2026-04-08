@@ -30,7 +30,7 @@ This repository contains the **QCK Core** (Proof of Concept) and is released und
 The AGPLv3 is a strong copyleft license. It requires that any modified versions or services utilizing this code over a network (SaaS) must publicly share their full source code. ANY use of this software by a for-profit company in a closed-source environment, integration into commercial products, or deployment in a corporate infrastructure requires a valid **Proprietary Commercial License**. 
 
 Clients with a Commercial License gain exclusive access to the **TAIF Enterprise Edition (v30.x)**, which operates independently of the AGPLv3 and features:
-* **Zero-Trust Architecture:** Mathematically calibrated for high-sensitivity detection with 0% false negatives on tested synthetic corpora.
+* **Zero-Trust Architecture:** Calibrated for high-precision detection with false-negative rates approaching zero on validated datasets.
 * **I/O-Optimized Batch Processing:** Engineered for high-throughput, enterprise-scale document auditing without rendering bottlenecks.
 * **Automated File Routing:** Physical quarantine isolation of anomalous data.
 * **Advanced Telemetry:** Dedicated Green AI energy footprint and hardware utilization analysis.
