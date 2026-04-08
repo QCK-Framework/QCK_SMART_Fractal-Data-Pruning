@@ -1,41 +1,31 @@
-========================================================================
-QCK FRACTAL DATA PRUNING - ACADEMIC & NON-COMMERCIAL LICENSE
+QCK FRACTAL DATA PRUNING CORE
 Copyright (c) 2026 Benedict M. Wyneken
-========================================================================
 
-1. NON-COMMERCIAL USE: Any individual or academic institution may view and use this software strictly for NON-COMMERCIAL, personal, or academic research purposes.
-2. NO THIRD-PARTY REDISTRIBUTION: You may modify the code for your own local use, but you are STRICTLY PROHIBITED from publishing, distributing, or hosting modified or derived versions of this software on any public platform, secondary repository, or website.
-3. CENTRALIZED CONTRIBUTIONS: If you wish to share your improvements, modifications, or bug fixes with the community, you MUST submit them directly to this original repository via a Pull Request.
-4. COMMERCIAL USE: ANY use of this software by a for-profit company, corporation, or for commercial products requires a valid Commercial License.
-5. NO WARRANTY: This software is provided "AS IS", without warranty of any kind. The author provides ZERO technical support.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-To request a Commercial License, email: qck-framework@web.de
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
 
-========================================================================
-THIRD-PARTY OPEN SOURCE DISCLOSURE
-========================================================================
-This software architecture utilizes the following third-party open source 
-components for vector mathematics and machine learning infrastructure. 
-The proprietary logic, fractal filtering algorithms, and routing mechanisms 
-of this repository remain the exclusive intellectual property of the author.
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-1. Sentence-Transformers (Apache License 2.0) - Copyright (c) UKP Lab
-2. Transformers (Apache License 2.0) - Copyright (c) Hugging Face
-3. paraphrase-multilingual-mpnet-base-v2 (Apache License 2.0)
-4. PyTorch (Modified BSD License) - Copyright (c) Facebook, Inc.
-5. NumPy (BSD 3-Clause License) - Copyright (c) NumPy Developers
-6. Pandas (BSD 3-Clause License) - Copyright (c) Pandas Development Team
-7. Scikit-Learn (BSD 3-Clause License) - Copyright (c) Scikit-learn developers
-8. psutil (BSD 3-Clause License) - Copyright (c) Giampaolo Rodola'
-9. Matplotlib (Matplotlib License) - Copyright (c) John D. Hunter et al.
-10. Python (PSFL) - Copyright (c) Python Software Foundation
+------------------------------------------------------------------------
+COMMERCIAL LICENSING
+------------------------------------------------------------------------
+For commercial use without the obligations of the AGPLv3 (e.g., closed-source 
+integration, SaaS deployment, or access to the I/O-optimized Enterprise Batch 
+Processor), a commercial license is required. 
 
---- APACHE LICENSE VERSION 2.0 SUMMARY ---
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use these components except in compliance with the License.
-You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
+Contact: qck-framework@web.de
 
---- BSD 3-CLAUSE / MODIFIED BSD SUMMARY ---
-Redistribution and use in source and binary forms, with or without modification, 
-are permitted provided that the original copyright notices and disclaimers are retained. 
-THESE COMPONENTS ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.
+------------------------------------------------------------------------
+THIRD-PARTY COMPONENTS
+------------------------------------------------------------------------
+This software interfaces with third-party open source components 
+(e.g., Sentence-Transformers under Apache 2.0, PyTorch under BSD). 
+Please refer to the THIRD-PARTY-NOTICES.txt file for full disclosures.
