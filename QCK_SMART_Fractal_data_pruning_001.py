@@ -1,8 +1,16 @@
 """
+ QCK Fractal Data Pruning Core
+ Copyright (c) 2026 Benedict M. Wyneken
+ SPDX-License-Identifier: AGPL-3.0-or-later
+
+For commercial licensing, contact: qck-framework@web.de
+
 QCK SMART Fractal data pruning 001 (v001) - Smart Data Curation
 Preventing AI Model Collapse via Pre-Training Geometric Selection.
+
 Features: Fractal Dimension Pruning, Smart Data Attractor Validation,
 O(N) Complexity, Green AI Telemetry.
+
 Reference: "Fractal Data Pruning - Ein Manifest für Smart Data und Green AI" https://zenodo.org/records/17697740
 """
 
