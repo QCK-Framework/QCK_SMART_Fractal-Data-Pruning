@@ -1,15 +1,13 @@
-CONTRIBUTOR LICENSE AGREEMENT & PROFIT SHARING
+# Contributing to QCK Core
 
-By submitting code (Pull Requests) to the QCK repository, you agree to the following terms:
+Contributions to the QCK Core are evaluated based on their mathematical accuracy and efficiency. To submit code, please open a Pull Request.
 
-Copyright Assignment: You grant Benedict M. Wyneken the irrevocable right to include your code in the QCK framework and license it commercially.
+## Contributor License Agreement (CLA)
 
-Profit Sharing (The Bounty): I believe in rewarding crucial open-source contributions. If your specific, accepted code significantly drives commercial licensing deals, you are eligible for a profit share:
+To maintain the dual-licensing structure (AGPLv3 for open source, proprietary for enterprise), all contributors must agree to the following terms. By submitting a pull request to this repository, you explicitly agree that:
 
-If the commercial Net Profit of the QCK project exceeds €500,000 annually, active core contributors share a pool of 1% of that Net Profit.
-
-If the annual Net Profit exceeds €2,000,000, this pool increases up to 5%.
-
-Note: The qualification of a "core contributor" and the exact proportional distribution of the Net Profit share lie at the sole discretion of the project founder, based on the actual impact of the merged commits.
-
-Credits: All merged contributors will be permanently listed in the repository's credits. 
+1. You retain the copyright to your original contribution.
+2. You grant Benedict M. Wyneken a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, modify, distribute, and sub-license your contribution under both:
+   - The GNU Affero General Public License v3 (AGPLv3) for the open-source edition.
+   - Any proprietary commercial license for the enterprise edition.
+3. Your contribution does not violate any third-party patents or copyrights.
