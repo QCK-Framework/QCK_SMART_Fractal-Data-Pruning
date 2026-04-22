@@ -218,7 +218,7 @@ Dadurch eignet es sich als:
 
 ---
 
-## Einschränkungen und offene Fragen (Red‑Team‑Perspektive)
+## Einschränkungen und offene Fragen
 
 - **Sprache:** Kalibriert auf Deutsch. Die hohe Precision auf englischen RAID‑Dokumenten wurde ohne englische Kalibrierung erreicht. Für andere Sprachen sinkt die Spezifität (siehe `czech`). Ein multilingualer Ausbau ist möglich, aber nicht Teil des Prototyps.
 - **Was „Halluzination“ bedeutet:** Es wird strukturelle Gleichmäßigkeit gemessen, nicht faktische Korrektheit. Die Korrelation zwischen topologischer Signatur und faktischer Halluzination ist theoretisch hergeleitet, aber nicht direkt empirisch validiert.
@@ -234,18 +234,6 @@ Dadurch eignet es sich als:
 ## Zusammenfassung
 
 QCK ist ein **deterministischer, regelbasierter Prototyp**, der auf 7,1 Millionen RAID‑Dokumenten eine Precision von 95,4 % erreicht, kalibriert mit nur 61 deutschen KI‑Texten. Es misst geometrische Signaturen struktureller Über‑Kohärenz – keine statistischen Muster – und ist robust gegen 9 von 11 adversariellen Angriffen. Das System ist extrem schnell, vollständig interpretierbar, läuft auf CPU und kann als Veto‑Filter oder komplementäre Komponente in Detektionspipelines eingesetzt werden. Die Einschränkungen sind transparent dokumentiert.
-
----
-
-## Dateien (Auswahl)
-
-| Datei | Funktion |
-|-------|---------|
-| `qck_auditor_010.py` | Kern‑Auditor, finale Kalibrierung |
-| `qck_auditor_measure_001.py` | Mess‑Modus, 31 Metriken, kein Gate |
-| `RAID_TEST_SCRIPT_VALIDATOR_016.py` | Scanner für Parquet + TXT |
-| `qck_analyzer_001.py` | Kalibrierungs‑Analyzer |
-| `qck_raid_evaluator_002.py` | RAID‑Auswertung mit Angriffs‑Unterscheidung |
 
 ---
 
