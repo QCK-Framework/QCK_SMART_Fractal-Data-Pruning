@@ -243,6 +243,4 @@ QCK ist ein **deterministischer, regelbasierter Prototyp**, der auf 7,1 Millione
 - Dugan, L. et al. (2024). *RAID: A Shared Benchmark for Robust Evaluation of Machine‑Generated Text Detectors.* ACL 2024. DOI: 10.18653/v1/2024.acl-long.674
 - Wyneken, B. (2025). *Geometrische Auditierung von KI‑Systemen.* DOI: [10.5281/zenodo.17691545](https://zenodo.org/records/17691545)
 
----
 
-Diese README enthält alle wesentlichen Informationen – von der Idee über die Ergebnisse bis hin zur Einordnung und den offenen Forschungsfragen – in einer klaren, redundanzfreien Struktur auf Deutsch.
