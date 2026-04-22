@@ -85,10 +85,10 @@ KI muss **alle** Gates treffen. Human muss **mindestens zwei** Gates brechen (ei
 
 | Level | Wörter | FP‑Rate | Human‑Basis | Gate‑Metriken |
 |-------|--------|---------|-------------|---------------|
-| lvl1 | 5–49 | 0,0 % | 35 | d3_global, bigram_entropy, hapax_ratio |
-| lvl2 | 50–299 | 6,9 % | 2.014 | avg_word_len, vocab_growth, rep_rate, bigram_entropy |
-| lvl3 | 300–699 | 23,7 % | 1.202 | rep_rate, ttr, d3_avg, vocab_growth |
-| lvl4 | 700–3.500 | 8,2 % | 1.202 | hapax_ratio, rep_rate, d3_min, vocab_growth |
+| lvl1 | 5–49 | 0,0 % | 35 |
+| lvl2 | 50–299 | 6,9 % | 2.014 | 
+| lvl3 | 300–699 | 23,7 % | 1.202 | 
+| lvl4 | 700–3.500 | 8,2 % | 1.202 | 
 
 ### Level 9 (Human‑Korridor, invertiert)
 
@@ -96,7 +96,7 @@ Bei Texten >3.500 Wörtern ist die Logik **invertiert**: Der Korridor ist auf Hu
 
 | Human‑Basis | Gate‑Metriken |
 |-------------|---------------|
-| 1.283 Texte | sent_autocorr (−0,501 … 0,611), zipf_slope (0,060 … 1,472) |
+| 1.283 Texte | 
 
 **Warum invertiert?** Bei sehr langen Texten ist der menschliche Rhythmus stabiler als der von KI – ein Mensch, der ein Buch schreibt, hat einen charakteristischen, konsistenten Rhythmus; eine KI verliert mit der Länge die Konsistenz oder wiederholt Muster, die kein Mensch zeigt.
 
