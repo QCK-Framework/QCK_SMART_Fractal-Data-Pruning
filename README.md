@@ -15,7 +15,7 @@ Instead of using complex Transformer loops, the QCK Pruner mathematically measur
 * **REJECTED (Fractal Noise / Slop):** LLMs exhibit a dangerous "Synthetic Perfection" or high-dimensional semantic jitter.
 
 ### 🌿 Green AI & O(N) Complexity
-* **Pipeline Speed:** Compared to Monte-Carlo semantic ray-tracing (Behroozi et al.) with 1000 samples per document (computational complexity O(N×M)), QCK uses deterministic geometric trajectory analysis (complexity O(N)), achieving empirical speedups of **~30,000x** on standard CPU hardware.
+* **Pipeline Speed:** Compared to Monte-Carlo semantic ray-tracing (Behroozi et al.) with 1000 samples per document (computational complexity O(N×M)), QCK uses deterministic geometric trajectory analysis (complexity O(N)), achieving empirical speedups of **~10,000x** on standard CPU hardware.
 * **Footprint:** Filters texts locally on a standard CPU using `< 1.5 GB RAM`.
 * **Energy Savings:** Reduces energy consumption by **> 99.99%** compared to a 2500W GPU cluster.
 
