@@ -15,9 +15,9 @@ Instead of using complex Transformer loops, the QCK Pruner mathematically measur
 * **REJECTED (Fractal Noise / Slop):** LLMs exhibit a dangerous "Synthetic Perfection" or high-dimensional semantic jitter.
 
 ### 🌿 Green AI & O(N) Complexity
-* **Pipeline Speed:** Compared to Monte-Carlo semantic ray-tracing (Behroozi et al.) with 1000 samples per document (computational complexity O(N×M)), QCK uses deterministic geometric trajectory analysis (complexity O(N)), achieving empirical speedups of **~10,000x** on standard CPU hardware.
+* **Pipeline Speed:** Compared to Monte-Carlo semantic ray-tracing (Behroozi et al.) with 1000 samples per document (computational complexity O(N×M)), QCK uses deterministic geometric trajectory analysis (complexity O(N)), achieving empirical speedups on standard CPU hardware.
 * **Footprint:** Filters texts locally on a standard CPU using `< 1.5 GB RAM`.
-* **Energy Savings:** Reduces energy consumption by **> 99.99%** compared to a 2500W GPU cluster.
+* 
 
 ---
 
@@ -55,20 +55,6 @@ Place any `.txt` raw data files into the same directory as the script.
 
 ## ⚖️ Commercial Pricing
 
-This Core codebase is free under AGPLv3. Any closed-source commercial deployment, API integration, or usage by a for-profit corporation avoiding copyleft obligations requires a paid commercial license. We do not provide technical support for the open-source edition.
-
-**Commercial Enterprise Tiers:**
-
-| Tier | Annual Cost | Target Output / Usage Limit |
-|---|---|---|
-| **Startup** | €40,000 | For training models up to 7B Parameters OR pruning up to 1 TB of Enterprise Data. (Max. 5 Data Scientists) |
-| **Mid-Market** | €100,000 | For training models up to 30 Billion Parameters (Max. 20 Data Scientists) |
-| **Enterprise** | €150,000+ | Unlimited Parameters / Frontier Models (Full Corp License) |
-
-**Licensing Process:**
-1. Send a license request to: **qck-framework@web.de**
-2. We evaluate the request and grant approval.
-3. Payment is processed via **Wire Transfer (Annual Upfront)**.
-4. Upon receipt, the proprietary commercial license certificate and Enterprise binaries are issued.
+Contact me for pricing. qck-framework@web.de
 
 *For contribution rules and pull requests, please read the `CONTRIBUTING.md` (CLA required).*
