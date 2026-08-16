@@ -11,7 +11,7 @@ Preventing AI Model Collapse via Pre-Training Geometric Selection.
 Features: Fractal Dimension Pruning, Smart Data Attractor Validation,
 O(N) Complexity, Green AI Telemetry.
 
-Reference: "Fractal Data Pruning - Ein Manifest für Smart Data und Green AI" https://zenodo.org/records/17697740
+Reference: "Fractal Data Pruning: A Manifesto for Smart Data and Green AI - From Brute-Force Ray Tracing to Preventive Geometric Selection" https://zenodo.org/records/17697740
 """
 
 # ==============================================================================
